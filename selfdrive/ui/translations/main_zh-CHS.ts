@@ -2560,7 +2560,7 @@ This may take up to a minute.</source>
     </message>
     <message>
         <source>Show Map on Left Side of UI</source>
-        <translation>在介面左侧显示地图</translation>
+        <translation>在界面左侧显示地图</translation>
     </message>
     <message>
         <source>Show map on left side when in split screen view.</source>
