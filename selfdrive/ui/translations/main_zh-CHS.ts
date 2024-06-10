@@ -1262,7 +1262,7 @@ Warning: You are on a metered connection!</source>
     </message>
     <message>
         <source>sunnypilot</source>
-        <translation>sunnypilot</translation>
+        <translation>驾驶设置</translation>
     </message>
     <message>
         <source>now</source>
@@ -1449,7 +1449,7 @@ This may take up to a minute.</source>
     </message>
     <message>
         <source>OSM</source>
-        <translation>OSM</translation>
+        <translation>地图设置</translation>
     </message>
 </context>
 <context>
