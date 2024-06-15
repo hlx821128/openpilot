@@ -6,6 +6,9 @@ export NUMEXPR_NUM_THREADS=1
 export OPENBLAS_NUM_THREADS=1
 export VECLIB_MAXIMUM_THREADS=1
 
+export http_proxy=http://192.168.0.180:7897
+export https_proxy=http://192.168.0.180:7897
+
 export ATHENA_HOST='ws://op.caminfo.cn:7776'
 export API_HOST='http://op.caminfo.cn:7777'
 export MAPBOX_TOKEN='sk.eyJ1IjoibWF3ZWl5dXdlaXdlaSIsImEiOiJjbG15NHN1dDMwdWc5MmxwaDdkZ3Z5dHNyIn0.pk06qTKkAZyBC1Z37v8i0A'
