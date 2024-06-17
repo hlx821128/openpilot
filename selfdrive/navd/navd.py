@@ -53,7 +53,7 @@ class RouteEngine:
     self.mapbox_token = None
     if "MAPBOX_TOKEN" in os.environ:
       self.mapbox_token = os.environ["MAPBOX_TOKEN"]
-      self.mapbox_host = "http://op.caminfo.cn:9998"
+      self.mapbox_host = "http://127.0.0.1:9998"
     else:
       self.api = Api(self.params.get("DongleId", encoding='utf8'))
       self.mapbox_host = "https://maps.comma.ai"
